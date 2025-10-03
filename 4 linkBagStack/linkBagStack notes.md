@@ -85,3 +85,7 @@ Wheater to include a header file in .c or .h file?
 
 ===============================================================================================================
 
+https://stackoverflow.com/questions/1666353/are-typedef-and-define-the-same-in-c
+Difference between typedef and define.
+
+===============================================================================================================

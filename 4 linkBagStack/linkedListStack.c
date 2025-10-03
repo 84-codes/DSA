@@ -1,3 +1,12 @@
+/* =====================================================
+ * AUTHOR: Shekhar C.
+ * Date: 03/10/2025
+ * Time: 19:07
+ * Description:
+ *      implementing only removing.....
+ *      and search (contains operation)
+===================================================== */
+
 #include "linkedListStack.h"
 
 struct link
