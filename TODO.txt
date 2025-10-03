@@ -1,0 +1,8 @@
+1. To do 2.
+2. Fix dynarray
+3. implement deque using dynarray
+
+4.do exercise from the book
+(infix to postfix convertor, maze solvers, bfs, dfs)
+
+5. Learn debugging, cmake, gcc (migw)
